@@ -28,5 +28,6 @@ namespace Training.DomainClasses
             }
             _petsInTheStore.Add(newPet);
         }
+
     }
 }
